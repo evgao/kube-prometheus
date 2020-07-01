@@ -5,12 +5,12 @@ go 1.13
 require (
 	github.com/Jeffail/gabs v1.2.0
 	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d // indirect
-	github.com/brancz/gojsontoyaml v0.0.0-20191212081931-bf2969bbd742
+	github.com/brancz/gojsontoyaml v0.0.0-20200602132005-3697ded27e8c
 	github.com/campoy/embedmd v1.0.0
-	github.com/google/go-jsonnet v0.15.1-0.20200319155144-6f135f75bc0e
+	github.com/google/go-jsonnet v0.16.0
 	github.com/googleapis/gnostic v0.0.0-20170729233727-0c5108395e2d // indirect
 	github.com/imdario/mergo v0.3.7 // indirect
-	github.com/jsonnet-bundler/jsonnet-bundler v0.3.1
+	github.com/jsonnet-bundler/jsonnet-bundler v0.4.0
 	github.com/kr/pretty v0.2.0 // indirect
 	github.com/pkg/errors v0.8.1
 	github.com/prometheus/client_golang v1.5.1
